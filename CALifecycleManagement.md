@@ -4,7 +4,7 @@
 The following table lists the Root CA certificates we operate that are currently included in the Apple root store.
 
 | Common Name | Expiration Date | Key Size | Trust Purpose | 
-|---|---|---|---|---|
+|---|---|---|---|
 | AAA Certificate Services | 2028-12-31 | 2048 RSA | Multi-Purpose, currently spanning TLS Server Authentication, Client Authentication, Code Signing and Email Protection |
 | COMODO Certification Authority | 2030-12-31 | 2048 RSA | Multi-Purpose, currently spanning TLS Server Authentication, Client Authentication, Email Protection |
 | COMODO ECC Certification Authority | 2038-01-18 | 384 ECC | Multi-Purpose for ECC certificates, currently spanning TLS Server Authentication, Client Authentication, Email Protection | 
