@@ -1,12 +1,12 @@
 # Customer and Change Management
 
 Sectigo provides updates to customers and subscribers in a number of ways, including but not limited to:
-- Sending newsletters by email to customers and partners of any upcoming changes and [publish](https://sectigo.com/resource-library/sectigo-to-remove-street-address-and-postal-code-from-certificates) [these](https://sectigo.com/resource-library/apple-to-limit-accepted-tls-certificate-duration-to-one-year) in our resource library
+- Sending newsletters by email to customers and partners of any upcoming changes and [publishing](https://sectigo.com/resource-library/sectigo-to-remove-street-address-and-postal-code-from-certificates) [these](https://sectigo.com/resource-library/apple-to-limit-accepted-tls-certificate-duration-to-one-year) in our resource library
 - [Publishing a](https://sectigo.com/resource-library/be-prepared-for-one-year-ssl-certificate-duration) [blog-post](https://sectigo.com/resource-library/blog-posts) on our main website's [resource library](https://sectigo.com/resource-library/).
-- Organize [webinars](https://sectigo.com/resource-library/webinars) in which we provide industry updates.
+- Organizing [webinars](https://sectigo.com/resource-library/webinars) in which we provide industry updates.
 - Direct calls with select customers providing regular updates.
-- Utilize social media.
-- Show alert messages of impacting changes in customer portals.
+- Utilizing social media.
+- Showing alert messages of impacting changes in customer portals.
 
 Responses to emails, calls and social media posts are reviewed on a case by case basis and fed back to the appropriate internal department and reviewed. 
 
